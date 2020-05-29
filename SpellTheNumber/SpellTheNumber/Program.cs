@@ -2,7 +2,6 @@
 
 class SpellTheNumber
 {
-
 	// strings at index 0 is not used, it is  to make array indexing simple 
 	static string[] one = {"", "one ", "two ", "three ", "four ",
 					"five ", "six ", "seven ", "eight ",
@@ -75,7 +74,7 @@ class SpellTheNumber
 		Console.WriteLine("Please enter any number :");
 
 		try
-		{
+		{       // Read user input
 			var UserInput = Console.ReadLine();
 			// convert given number in words 
 			Console.WriteLine(convertToWords(Convert.ToInt64(UserInput)));
