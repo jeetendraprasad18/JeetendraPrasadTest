@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellTheNumber", "SpellTheNumber\SpellTheNumber.csproj", "{692B035D-8BEB-4868-8D1E-00E270A434BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692B035D-8BEB-4868-8D1E-00E270A434BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692B035D-8BEB-4868-8D1E-00E270A434BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692B035D-8BEB-4868-8D1E-00E270A434BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692B035D-8BEB-4868-8D1E-00E270A434BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08571FC2-3375-4E21-A379-8C85CE909412}
+	EndGlobalSection
+EndGlobal

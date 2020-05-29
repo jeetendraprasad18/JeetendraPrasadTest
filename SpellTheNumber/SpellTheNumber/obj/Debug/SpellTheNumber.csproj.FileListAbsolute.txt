@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\StudyPracticalDotNet\Test\SpellTheNumber\SpellTheNumber\bin\Debug\SpellTheNumber.exe.config
+C:\Users\user\Desktop\StudyPracticalDotNet\Test\SpellTheNumber\SpellTheNumber\bin\Debug\SpellTheNumber.exe
+C:\Users\user\Desktop\StudyPracticalDotNet\Test\SpellTheNumber\SpellTheNumber\bin\Debug\SpellTheNumber.pdb
+C:\Users\user\Desktop\StudyPracticalDotNet\Test\SpellTheNumber\SpellTheNumber\obj\Debug\SpellTheNumber.exe
+C:\Users\user\Desktop\StudyPracticalDotNet\Test\SpellTheNumber\SpellTheNumber\obj\Debug\SpellTheNumber.pdb
