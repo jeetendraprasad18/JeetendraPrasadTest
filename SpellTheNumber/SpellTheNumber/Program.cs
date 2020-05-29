@@ -19,7 +19,6 @@ class SpellTheNumber
 	static string numToWords(int n, string s)
 	{
 		string str = "";
-
 		// if n is more than 19, divide it 
 		if (n > 19)
 		{
@@ -29,13 +28,11 @@ class SpellTheNumber
 		{
 			str += one[n];
 		}
-
 		// if n is non-zero 
 		if (n != 0)
 		{
 			str += s;
 		}
-
 		return str;
 	}
 
